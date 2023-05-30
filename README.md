@@ -1,3 +1,4 @@
 # OOP-Group-Project
-Online Tour Guide System
+Online Tour Guide System - 
 2nd Year 2nd Semester
+Desktop Application
